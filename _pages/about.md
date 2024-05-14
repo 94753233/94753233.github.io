@@ -9,4 +9,4 @@ redirect_from:
 
 
 
-Hello, I’m Tianshuo Zhou, an undergraduate student at [School of eecs](https://www.lzu.edu.cn/). I’m currently in my third year of undergraduate studies.
+Hello, I’m Tianshuo Zhou, an undergraduate student at [Lanzhou University](https://www.lzu.edu.cn/). I’m currently in my third year of undergraduate studies.
