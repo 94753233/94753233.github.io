@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ### Self Introduction
-Hello, I’m Mick Chow. From 2021 to 2025, I completed my BEng in Artificial Intelligence at [Lanzhou University](https://www.lzu.edu.cn/). 
+Hello, I’m Mick Zhou. From 2021 to 2025, I completed my BEng in Artificial Intelligence at [Lanzhou University](https://www.lzu.edu.cn/). 
 
-I’m currently a Master’s student in Computing at [Imperial College London](https://www.imperial.ac.uk/).
+I’m currently a Master’s student in Computing at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/)
 
 ### Exchange Study
 From September to December 2024, I studied as an exchange student at [National Taiwan University](https://www.ntu.edu.tw/).
